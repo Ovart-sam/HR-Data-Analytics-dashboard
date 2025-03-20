@@ -49,4 +49,5 @@ This project is an interactive HR Data Analytics Dashboard designed to provide i
 
 
 ## Dashbaord Interaction
+![AA](https://github.com/user-attachments/assets/2378a403-773a-4a17-be1b-e5f7fa21fb17)
 
