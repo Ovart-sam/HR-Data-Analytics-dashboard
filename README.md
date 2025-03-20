@@ -37,8 +37,6 @@ This project is an interactive HR Data Analytics Dashboard designed to provide i
 
 - Employee Rating by Department & Staff Status <a href="https://github.com/Ovart-sam/HR-Data-Analytics-dashboard/blob/main/HR%20DATA%20ANALYTICS.png">view dashboard</a>
 
-## Dashbaord Interaction
-
 ## Process
 
 - Data Collection: Gather employee data, including salary, experience, department, and ratings.
@@ -48,3 +46,7 @@ This project is an interactive HR Data Analytics Dashboard designed to provide i
 - Data Analysis: Perform calculations and create visualizations to highlight salary distribution, experience levels, and department ratings.
 
 - Dashboard Visualization: Develop an interactive dashboard using tools like Power BI or Tableau for easy interpretation and reporting.
+
+
+## Dashbaord Interaction
+
