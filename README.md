@@ -9,30 +9,30 @@ This project is an interactive HR Data Analytics Dashboard designed to provide i
 
 ## Project Questions
 
-What is the gender distribution among employees?
+- What is the gender distribution among employees?
 
-How is salary distributed across departments and individuals?
+- How is salary distributed across departments and individuals?
 
-What are the employee ratings based on department and staff status?
+- What are the employee ratings based on department and staff status?
 
-Which department has the highest number of total years of experience?
+- Which department has the highest number of total years of experience?
 
-How many employees are in each department, and what is their contribution?
+- How many employees are in each department, and what is their contribution?
 
 ## Key Performance Indicators (KPIs)
 
-Total Employees: 100
+- Total Employees: 100
 
-Gender Ratio: 51% Male, 47% Female
+- Gender Ratio: 51% Male, 47% Female
 
-Total Salary: 8M
+- Total Salary: 8M
 
-Missing Data Entries: 2
+- Missing Data Entries: 2
 
-Employee Rating Score: 380
+- Employee Rating Score: 380
 
-Salary Distribution by Department
+- Salary Distribution by Department
 
-Sum of Total Years of Experience by Department
+- Sum of Total Years of Experience by Department
 
-Employee Rating by Department & Staff Status
+- Employee Rating by Department & Staff Status
