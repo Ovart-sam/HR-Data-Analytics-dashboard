@@ -35,10 +35,9 @@ This project is an interactive HR Data Analytics Dashboard designed to provide i
 
 - Sum of Total Years of Experience by Department
 
-- Employee Rating by Department & Staff Status
+- Employee Rating by Department & Staff Status <a href="https://github.com/Ovart-sam/HR-Data-Analytics-dashboard/blob/main/HR%20DATA%20ANALYTICS.png">view dashboard</a>
 
 ## Dashbaord Interaction
-  - <a href="https://github.com/Ovart-sam/HR-Data-Analytics-dashboard/blob/main/HR%20DATA%20ANALYTICS.png">view dashboard</a>
 
 ## Process
 
